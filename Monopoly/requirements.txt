@@ -1,0 +1,90 @@
+﻿
+***********************
+* Monopoly Classic UK *
+***********************
+
+Contents:
+ - Gameboard
+ - 8 tokens
+ - 28 title deed cards
+ - 16 chance cards
+ - 16 community chest cards
+ - 32 green houses
+ - 12 red hotels
+ - 2 dice
+
+How do I win?
+ - Be the only player left in the game after everyone else has gone bankrupt
+
+Who goes first?
+ - Each player rolls the two dice. The highest roller takes the first turn.
+
+On your turn:
+ 1. Roll the two dice
+ 2. Move your token clockwise round the board the number of spaces shown on the dice#
+ 3. You will need to take action depending on which space you land on
+ 4. If your move took you onto or past the GO space, collect 200$ from the Bank
+ 5. If you rolled a double, roll the dice again and take another move
+    If you roll doubles 3 times on the same turn, you must GO to Jail
+ 6. When you finish your move and action, pass the dice to the player on your left
+
+Where did you land?
+ 1. An unowned property
+   - There are three types of properties (Sites, Stations, Utilities)
+   - You can buy the property you land on for the listed price on the board space.
+     Pay the bank, then take the Title Deed card that matches the property
+   - If you don't want to pay the listed price, the property goes up for auction.
+     When buying property you should plan to acquire groups (all sites of the same color)
+	 Owning groups earns you more rent when other players land on them.
+ 2. A property owned by another player
+   - TBD
+ 3. CHANCE or COMMUNITY CHEST
+   - TBD
+ 4. INCOME TAX / SUPER TAX
+   - TBD
+ 5. GO TO JAIL
+   - TBD
+ 6. JAIL
+ 7. FREE PARKING
+ 8. A property that you own 
+
+Help! I am in debt
+ - TBD
+
+Don't wait for the dice!
+ 1. Collect rent
+   - TBD
+ 2. AUCTION
+   - TBD
+ 3. BUILD
+   - TBD
+ 4. SELL BUILDINGS
+   - TBD
+ 5. SELL BUILDINGS
+   - TBD
+ 6. MORTGAGE PROPERTIES
+   - TBD
+ 6. DO A DEAL
+   - TBD
+
+Set it up!
+ - The bank
+   - Holds all money and Title Deeds no owned by players
+   - Pays salaries and bonuses to players
+   - Collects taxes and fines from players
+   - Sells and actions properties
+   - Sells houes and hotels
+   - Loans money to players who mortage their property
+   - The bank can never run out of money
+ - Shuffle the Community Chest cards
+ - Shuffle the chance cards
+ - Each player choooses a token and puts it on the GO space
+ - Start money
+   - 2 x 500$
+   - 4 x 100$
+   - 1 x 50$
+   - 1 x 20$
+   - 2 x 10$
+   - 1 x 5$
+   - 5 x 1$
+
