@@ -10,7 +10,7 @@ namespace Monopoly
 
         public Dice(int min, int max)
         {
-            random = new Random();
+            random = new Random(Guid.NewGuid().GetHashCode());
             this.min = min;
             this.max = max;
         }
