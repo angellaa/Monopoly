@@ -5,7 +5,7 @@ namespace Monopoly
     public class Game
     {
         private readonly List<Player> players = new List<Player>();
-        private readonly int currentPlayerIndex = 0;
+        private int currentPlayerIndex;
 
         public void AddPlayer(Player player)
         {
@@ -13,5 +13,10 @@ namespace Monopoly
         }
 
         public Player CurrentPlayer => players[currentPlayerIndex];
+
+        public void Next()
+        {
+            currentPlayerIndex = (currentPlayerIndex + 1) % players.Count;
+        }
     }
 }
