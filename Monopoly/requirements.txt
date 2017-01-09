@@ -26,7 +26,7 @@ On your turn:
  4. If your move took you onto or past the GO space, collect 200$ from the Bank
  5. If you rolled a double, roll the dice again and take another move
     If you roll doubles 3 times on the same turn, you must GO to Jail
- 6. When you finish your move and action, pass the dice to the player on your left
+ 6. When you finish your move and action, pass the dice to the next player
 
 Where did you land?
  1. An unowned property

@@ -1,5 +1,6 @@
 ﻿
 TODO List
+ x Dice
  - We decided who goes first
  - Gameboawrd
  - Player movement on the board
